@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5243265-35d8-49e3-8d02-b3934ee88cf4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Libraries/main/laboratory.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#3685#3715#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/main/custom_functions/temperature_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-100" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Libraries/main/test_temperatures.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Desktop/Libraries/custom_functions/laboratory.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/custom_functions/laboratory.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/custom_functions/main/laboratory.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/main/custom_functions/temperature_methods.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/main/laboratory.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/main/test_temperatures.py" />
+        <option value="$PROJECT_DIR$/Libraries_editado/main/test/test_student_grades_methods.py" />
+        <option value="$PROJECT_DIR$/Libraries/main/test_temperatures.py" />
+        <option value="$PROJECT_DIR$/Libraries/main/laboratory.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Proyecto_Librerias" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_Librerias" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto_Librerias" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_Librerias" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto_Librerias" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_Librerias" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto_Librerias" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_Librerias" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="custom_functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Proyecto_Librerias" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Proyecto_Librerias" type="462c0819:PsiDirectoryNode" />
+              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="K:\CARRERA\PROYECTOS\Proyecto Librerias\Libraries_editado\custom_functions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.laboratory (1)">
+    <configuration name="laboratory (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Libraries/main/laboratory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="laboratory" type="PythonConfigurationType" factoryName="Python">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries_editado/custom_functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Libraries_editado/custom_functions/laboratory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_final_grade" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries_editado/main/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_student_grades_methods.TestCollectionMethods.test_calculate_final_grade&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_temperatures.TestCollectionMethods" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_temperatures.TestCollectionMethods&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_temperatures.TestCollectionMethods2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries_editado/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_temperatures.TestCollectionMethods2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_student_grades_methods.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries_editado/main/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Libraries_editado/main/test/test_student_grades_methods.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_temperatures.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Proyecto Librerias" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Libraries/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Libraries/main/test_temperatures.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.laboratory (1)" />
+        <item itemvalue="Python tests.Unittests in test_temperatures.py" />
+        <item itemvalue="Python tests.Unittests for test_temperatures.TestCollectionMethods" />
+        <item itemvalue="Python tests.Unittests for test_temperatures.TestCollectionMethods2" />
+        <item itemvalue="Python tests.Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_final_grade" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5243265-35d8-49e3-8d02-b3934ee88cf4" name="Default Changelist" comment="" />
+      <created>1555107087195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555107087195</updated>
+      <workItem from="1555107088808" duration="1239000" />
+      <workItem from="1555186385131" duration="4644000" />
+      <workItem from="1555201864471" duration="10890000" />
+      <workItem from="1555213409223" duration="256000" />
+      <workItem from="1555265800196" duration="1391000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_temperatures_TestCollectionMethods3 - 2019.04.13 at 22h 29m 21s.xml">
+      <configuration name="Unittests for test_temperatures.TestCollectionMethods3" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_student_grades_methods_py - 2019.04.13 at 22h 30m 09s.xml">
+      <configuration name="Unittests in test_student_grades_methods.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade - 2019.04.13 at 22h 30m 13s.xml">
+      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_final_grade - 2019.04.13 at 22h 31m 34s.xml">
+      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_final_grade" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperatures_TestCollectionMethods - 2019.04.14 at 13h 40m 58s.xml">
+      <configuration name="Unittests for test_temperatures.TestCollectionMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperatures_TestCollectionMethods - 2019.04.14 at 13h 41m 40s.xml">
+      <configuration name="Unittests for test_temperatures.TestCollectionMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperatures_TestCollectionMethods - 2019.04.14 at 13h 41m 44s.xml">
+      <configuration name="Unittests for test_temperatures.TestCollectionMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperatures_TestCollectionMethods - 2019.04.14 at 13h 42m 13s.xml">
+      <configuration name="Unittests for test_temperatures.TestCollectionMethods" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_temperatures_py - 2019.04.14 at 13h 42m 18s.xml">
+      <configuration name="Unittests in test_temperatures.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_temperatures_py - 2019.04.14 at 13h 42m 52s.xml">
+      <configuration name="Unittests in test_temperatures.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18420000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.33224222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_student_grades_methods_TestCollectionMethods.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods Coverage Results" MODIFIED="1555209380524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main/test" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_temperatures_TestCollectionMethods2.coverage" NAME="Unittests for test_temperatures.TestCollectionMethods2 Coverage Results" MODIFIED="1555211876642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$laboratory.coverage" NAME="laboratory Coverage Results" MODIFIED="1555204925771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/custom_functions" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_temperatures_TestCollectionMethods.coverage" NAME="Unittests for test_temperatures.TestCollectionMethods Coverage Results" MODIFIED="1555267333378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_best_grade.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade Coverage Results" MODIFIED="1555209545541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main/test" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_in_test_temperatures_py.coverage" NAME="Unittests in test_temperatures.py Coverage Results" MODIFIED="1555267372393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$laboratory__4_.coverage" NAME="laboratory (4) Coverage Results" MODIFIED="1555205714116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/custom_functions/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_in_test_student_grades_methods_py.coverage" NAME="Unittests in test_student_grades_methods.py Coverage Results" MODIFIED="1555212609319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main/test" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_temperatures_TestCollectionMethods3.coverage" NAME="Unittests for test_temperatures.TestCollectionMethods3 Coverage Results" MODIFIED="1555212561269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$laboratory__3_.coverage" NAME="laboratory (3) Coverage Results" MODIFIED="1555212484293" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$laboratory__2_.coverage" NAME="laboratory (2) Coverage Results" MODIFIED="1555204997734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/Libraries/custom_functions" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade Coverage Results" MODIFIED="1555212613479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main/test" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$laboratory__1_.coverage" NAME="laboratory (1) Coverage Results" MODIFIED="1555267879467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries/main" />
+    <SUITE FILE_PATH="coverage/Proyecto_Librerias$Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_final_grade.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_final_grade Coverage Results" MODIFIED="1555212694615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Libraries_editado/main/test" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/CARRERA/PROYECTOS/Proyecto Librerias/Libraries_editado/main/laboratory.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/CARRERA/PROYECTOS/Proyecto Librerias/Libraries_editado/custom_functions/laboratory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Libraries/main/laboratory.py" />
+    <entry file="file://$USER_HOME$/Desktop/Libraries/main/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/custom_functions/laboratory.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/custom_functions/main/laboratory.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/student_grades_methods.py" />
+    <entry file="file://$USER_HOME$/Desktop/Libraries/custom_functions/laboratory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2139">
+          <caret line="614" selection-start-line="614" selection-end-line="614" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Libraries/custom_functions/student_grades_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/custom_functions/temperature_methods.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/laboratory.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/test/test_string_methods.py" />
+    <entry file="file://$USER_HOME$/Desktop/Libraries/test/test_student_grades_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="38" lean-forward="true" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/test_temperatures.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries_editado/main/test/test_student_grades_methods.py" />
+    <entry file="file://$PROJECT_DIR$/Libraries/main/test_temperatures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/main/custom_functions/temperature_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Libraries/main/laboratory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#3685#3715#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
